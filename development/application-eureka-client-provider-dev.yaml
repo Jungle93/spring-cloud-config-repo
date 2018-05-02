@@ -12,4 +12,4 @@ management:
     health:
       enabled: true
 jungle:
-  secret: yoyo ! Peppa Pig !
+  secret: {cipher}AQAJF+3zB/T/pUxkWoMRtlKabpEeRMY47zSku59T3XcIGtArMuXLKHjHJkkokSNLX5ukz76om6wTbnfPJDYKx4ElhUc70PEB7ob81tuKlW3mIJw+mzZvVk8dtrxrPWHegU0hagWr8k1bWFDS5P/q+IqFlre0zLqCZYi/gzg9FQRvSPDM5hbOQd1MkGtWrbgm74Ex4diXGn2z0YSEFpO1I/vEND6KqpIu1suQcLBA/WlC57/+TKnW/a7W3Zknid3XRVRdDdRMZU1t67bJ25cJdNCgGF+0MtBJygSmq9m7rxwJ4286rKesr0m8H2M1S5HuWAaZ/0I1UXq7csAz5yqtpxfmAFJnxTi6uqkpVoZy9Pz6iYQ3z9sv5pDSzE0xZ0q0Ruec2jzqZdyaNZvesSPBkc+4
